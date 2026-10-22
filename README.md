@@ -9,7 +9,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| [`glossary/terms.csv`](glossary/terms.csv) | 术语对照表（近 300 条）：公司与职位、贸易与通关、物流、合同、报价订单、付款发票、税务与行政、会议与日程、质量与售后、电商与销售、商务用语 |
+| [`glossary/terms.csv`](glossary/terms.csv) | 术语对照表（560 余条）：公司与职位、贸易与通关、物流、合同、报价订单、付款发票、税务与行政、会议与日程、质量与售后、电商与销售、人事与劳务、商务用语 |
 | [`templates/emails.md`](templates/emails.md) | 日语商务邮件模板：询价、报价、下单、延误道歉、催款、婉拒 |
 | [`prompts/translate.md`](prompts/translate.md) | 用 AI 翻译商务邮件时的提示词 |
 | `index.html` | 在线查询页面 |
